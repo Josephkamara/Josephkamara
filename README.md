@@ -1,33 +1,19 @@
-# <a href="https://www.linkedin.com/in/joseph-kamara">Joseph Kamara</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Joseph Kamara
 
-I specialize in AI, technology risk, and cybersecurity. My work focuses on solving complex problems through practical implementation. My projects span technology risk assessment, AI governance, vulnerability management, and threat detection. Each repository demonstrates real-world applications in security operations.
+CPA, CISSP, CISA. GRC, cybersecurity, and AI governance.
 
-You'll find working solutions with detailed documentation here. Current focus areas include vulnerability management workflows, threat detection systems, and incident response automation.
-Feel free to explore the repositories. Each project includes examples and setup instructions for implementation in your environment.
+I audit technology risk and AI governance programs, and build hands-on projects that show the reasoning behind the work, not just the finished checklist.
 
+## Portfolio
 
-## ⚠️ Vulnerability Management Projects
+[audit-defense-portfolio](https://github.com/Josephkamara/audit-defense-portfolio): case studies and worked examples. Each one shows a real decision: the constraint, the options, the tradeoff, and the judgment call underneath the framework.
 
-- **[Vulnerability Management Program Implementation](https://github.com/Amerifusion/Vulnerability-Management-Program-Case-Study/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+Live site: [josephkamara.github.io/audit-defense-portfolio](https://josephkamara.github.io/audit-defense-portfolio/)
 
-## 🚨 Threat Hunting and Security Operations
+## Writing
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+Articles on AI governance, cloud security, GRC engineering, HIPAA, and SOC 2 at [josefkamara.com](https://josefkamara.com).
 
-<hr/>
+## Connect
 
-## 🤳 Connect With Me
-
-[<img align="left" alt="Joseph Kamara___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Joseph Kamara___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Joseph Kamara___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://x.com/Josefkamara
-[instagram]: https://www.instagram.com/josef_kamara/
-[linkedin]: https://www.linkedin.com/in/joseph-kamara
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+[LinkedIn](https://www.linkedin.com/in/joseph-kamara) · [X](https://x.com/Josefkamara)
