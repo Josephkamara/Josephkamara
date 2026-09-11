@@ -14,7 +14,7 @@ Live site: [josephkamara.github.io/audit-defense-portfolio](https://josephkamara
 
 ## Writing
 
-Articles on AI governance, cloud security, GRC engineering, HIPAA, and SOC 2 at [josefkamara.com](https://josefkamara.com).
+Articles on AI governance, cloud security, GRC engineering, HIPAA, and SOC 2 at [josefkamara.com](https://josefkamara.com). [The Authority Brief](https://www.linkedin.com/newsletters/7419428063517728768/), a newsletter on the same topics, publishes on LinkedIn.
 
 ## Connect
 
